@@ -108,4 +108,7 @@
     <string name="recents_clear_all_title">Clear all</string>
     <string name="recents_lens_title">Lens</string>
 
+    <!-- Preference default value -->
+    <string name="pref_value_default">Default</string>
+
 </resources>
