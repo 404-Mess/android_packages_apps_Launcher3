@@ -184,6 +184,7 @@ public final class Utilities {
     public static final String KEY_ALLOW_WALLPAPER_ZOOMING = "pref_allow_wallpaper_zooming";
     public static final String KEY_STATUS_BAR = "pref_show_statusbar";
     public static final String KEY_LENS = "pref_recents_lens";
+    public static final String KEY_RECENTS_CHIPS = "pref_recents_chips";
 
     /**
      * Returns true if theme is dark.
